@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Enemy
+comment1.params=name\ attack\ def\ health\ agility\ exp
+comment1.target=Enemy(java.lang.String,\ int,\ int,\ int,\ int,\ int)
+numComments=2

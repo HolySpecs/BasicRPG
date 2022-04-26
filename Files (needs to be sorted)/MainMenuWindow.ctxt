@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=MainMenuWindow
+comment1.params=party\ fileName
+comment1.target=MainMenuWindow(java.util.ArrayList,\ java.lang.String)
+comment2.params=newRoomsCleared
+comment2.target=void\ setRoomsCleared(int)
+comment3.params=party\ roomsCleared
+comment3.target=void\ recover(java.util.ArrayList,\ int)
+comment4.params=roomsCleared
+comment4.target=java.util.ArrayList\ generateRoom(int)
+comment5.params=choice\ num
+comment5.target=Enemy\ genMonster(int,\ int)
+numComments=6

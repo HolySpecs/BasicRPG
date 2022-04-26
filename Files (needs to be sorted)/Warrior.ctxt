@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Warrior
+comment1.params=name
+comment1.target=Warrior(java.lang.String)
+comment10.params=enemy
+comment10.target=boolean\ ability(Enemy)
+comment11.params=obj
+comment11.target=void\ printStatus(Character)
+comment2.params=
+comment2.target=int\ getRage()
+comment3.params=
+comment3.target=int\ getMaxRage()
+comment4.params=
+comment4.target=int\ getPastMaxRage()
+comment5.params=newRage
+comment5.target=void\ setRage(int)
+comment6.params=newMaxRage
+comment6.target=void\ setMaxRage(int)
+comment7.params=newMaxRage
+comment7.target=void\ setPastMaxRage(int)
+comment8.params=
+comment8.target=void\ checkRage()
+comment9.params=
+comment9.target=void\ checkLevelUp()
+numComments=12

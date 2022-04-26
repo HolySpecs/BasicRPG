@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Player
+comment1.params=name\ attack\ def\ health\ agility\ exp\ level
+comment1.target=Player(java.lang.String,\ int,\ int,\ int,\ int,\ int,\ int)
+comment10.params=
+comment10.target=void\ checkHealth()
+comment11.params=group
+comment11.target=boolean\ ability(java.util.ArrayList)
+comment12.params=target
+comment12.target=boolean\ ability(Character)
+comment2.params=
+comment2.target=int\ getLevel()
+comment3.params=
+comment3.target=int\ getExpLimit()
+comment4.params=
+comment4.target=int\ getPastLevel()
+comment5.params=newLevel
+comment5.target=void\ setLevel(int)
+comment6.params=newExpLimit
+comment6.target=void\ setExpLimit(int)
+comment7.params=newLevel
+comment7.target=void\ setPastLevel(int)
+comment8.params=
+comment8.target=boolean\ canLevelUp()
+comment9.params=
+comment9.target=void\ levelUp()
+numComments=13
